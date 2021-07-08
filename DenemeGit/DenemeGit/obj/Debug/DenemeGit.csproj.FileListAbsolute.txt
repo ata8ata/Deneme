@@ -1,0 +1,10 @@
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\bin\Debug\DenemeGit.exe.config
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\bin\Debug\DenemeGit.exe
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\bin\Debug\DenemeGit.pdb
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\obj\Debug\DenemeGit.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\obj\Debug\DenemeGit.Form1.resources
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\obj\Debug\DenemeGit.Properties.Resources.resources
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\obj\Debug\DenemeGit.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\obj\Debug\DenemeGit.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\obj\Debug\DenemeGit.exe
+C:\Users\mustafa\source\repos\DenemeGit\DenemeGit\obj\Debug\DenemeGit.pdb
